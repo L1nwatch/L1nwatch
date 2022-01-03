@@ -4,7 +4,7 @@
 
 - try to become a full-stack developer 👨‍💻
 - study in Xidian University since 2013 🏪(Major: Computer Science/Cyber Security)
-- working since 2017 🚀(Title: Security Test Engineer/Automation Test Engineer/Software Development Engineer in Test)
+- working since 2017 🚀(Title: Security Test Engineer -> Automation Test Engineer -> Software Development Engineer in Test)
 - more details about me 😄: [resume-zh](http://watch0.top/articles/about_me/),[resume-en](http://watch0.top/articles/about_me_en/)
 
 ### GitHub status
