@@ -6,7 +6,7 @@ Vision
 - hope to keep happy && efficient in my whole life 😄
 - try to become a full-stack developer 💻
 - collect the amazing solutions and make them automated ⚙️
-- this is how I do: [full flow](https://github.com/L1nwatch/L1nwatch/blob/main/life-flow.drawio.png?raw=true)
+- this is how I do: [full flow](https://github.com/L1nwatch/L1nwatch/blob/main/life-flow.drawio.png)
 
 Experience
 - study at Xidian University since 2013 🏫(Major: Computer Science/Cyber Security)
